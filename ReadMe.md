@@ -13,5 +13,5 @@
     *ConsumerExample
     
 # Update Time
-20170719
+2017-7-19
 # To Stream of data like a message system
